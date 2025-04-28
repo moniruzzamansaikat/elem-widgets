@@ -1,0 +1,9 @@
+.twentyfive-menu {
+    background-color: lightblue;
+    color: #000000;
+}
+
+.twentyfive-menu li {
+    margin: 0 20px;
+    display: inline-block;
+}
